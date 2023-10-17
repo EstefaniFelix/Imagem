@@ -1,0 +1,13 @@
+*{
+  background-color: black;
+}
+.App {
+  text-align: center;
+}
+
+.App h1{
+  color: white;
+}
+.noticia{
+  color: white;
+}
